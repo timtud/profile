@@ -49,7 +49,7 @@ ul {
 }
 
 #container {
-  width: 600px;
+  width: 700px;
   margin: 0 auto;
 }
 
@@ -57,6 +57,7 @@ ul {
   background-color: #fefefe;
   text-align: center;
   padding: 20px;
+  padding-top: 40px;
   border-radius: 0 0 5px 5px
 }
 #header a {
@@ -114,22 +115,17 @@ ul {
 
 #sidebar {
   position: fixed;
-  width: 100px;
-  left: 0;
   top: 0;
+  margin-left: 180px;
   background-color: rgba(13, 52, 70, 0.84);
-  border-radius: 0 3px 10px 3px
+  border-radius: 0px 0px 10px 10px
 }
 
 .link {
-  margin: 40px 10px;
-  margin-left: -30px;
-  padding: 4px;
-  background-color: #fefefe;
-  color: rgba(13,52,70,0.8);
-  box-shadow: inset 0px 0px 5px rgba(13, 52, 70, 0.3);
+  margin: 20px 10px;
+  padding: 5px;
+  color: rgba(240,240,240,0.8);
 }
 
-#page-content {
-  margin-left: 120px;
-}
+
+
